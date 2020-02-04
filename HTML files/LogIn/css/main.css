@@ -217,8 +217,9 @@ iframe {
 
 .wrap-login100 {
   width: 100%;
-  /*background: rgba(255, 255, 255, 0);*/
-  background-image: url('https://i.imgur.com/btwoH9S.jpg');
+  background: rgba(255, 0, 0, 0.603)
+  /*background: rgba(255, 255, 255, 0);
+  background-image: url('https://i.imgur.com/btwoH9S.jpg');*/
   overflow: hidden;
   display: -webkit-box;
   display: -webkit-flex;
